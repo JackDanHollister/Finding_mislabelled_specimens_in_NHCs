@@ -1,4 +1,5 @@
-# highlighting_mislabelled_specimens
+# Finding_mislabelled_specimens_in_NHCs
+
 This repository contains the code for my paper titled 'A computer vision method for finding mislabelled specimens within natural history collections'
 
 
